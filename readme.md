@@ -50,7 +50,7 @@
 
 - [aaronstillwell/terraform-provider-dokku](https://github.com/aaronstillwell/terraform-provider-dokku) - A terraform provider for provisioning applications on the Dokku.
 - [pedropaf/dokku-migration](https://github.com/pedropaf/dokku-migration)
-  - Announcement blog post: [Dokku Migrations: Introducing the Open Source Dokku Migration Tool](https://www.pedroalonso.net/blog/dokku-migration-tool/).
+  - Announcement blog post: [Dokku Migrations: Introducing the Open Source Dokku Migration Tool](https://www.pedroalonso.net/blog/dokku_migration_cli/).
 - [Dokku DigitalOcean Marketplace 1-Click App](https://marketplace.digitalocean.com/apps/dokku)
 
 <!-- END CONTENT -->
